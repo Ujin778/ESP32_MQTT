@@ -9,9 +9,9 @@
 #include "Led.h"
 #endif
 
-const char WIFI_SSID[] = "******";
-const char WIFI_PSWD[] = "******";
-const char MQTT_SERVER[] = "******";
+const char WIFI_SSID[] = "orangepi";
+const char WIFI_PSWD[] = "orangepi";
+const char MQTT_SERVER[] = "192.168.1.131";
 const uint16_t MQTT_PORT = 1883;
 const char MQTT_CLIENT[] = "ESP32_MQTT";
 
